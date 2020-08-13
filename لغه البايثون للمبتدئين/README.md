@@ -2,6 +2,8 @@
 
 **Important**: Once you open the notebook, go to file > Save a copy in Drive. 
 
+If you wish to open a new (and blank) Python notebook, [click here](https://colab.research.google.com/#create=true).
+
 [YouTube Playlist]()
 |   | Topic | Run | View |
 | - | ---|--- | ---- |
