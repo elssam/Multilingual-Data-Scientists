@@ -7,7 +7,7 @@
 
 Course name |Description |Course Materials| Videos | Language
 ---|---|---|---|---
-لغه البايثون للمبتدئين|شرح وافي لأساسيات لغه البايثون| [أنقر هنا]()|[قريبا](https://www.youtube.com/c/multilingualdatascientists)|اللغه العربيه
+لغه البايثون للمبتدئين|شرح وافي لأساسيات لغه البايثون| [أنقر هنا](https://www.youtube.com/watch?v=chinsa3C4d0&list=PLcDn4yh0rntsWolmOgZ_XC20zvxgqsbdo)|[قريبا](https://www.youtube.com/c/multilingualdatascientists)|اللغه العربيه
 
 ---
 Videos for all tutorials are available on the [YouTube Channel](https://www.youtube.com/c/multilingualdatascientists).
